@@ -1,2 +1,2 @@
 # processing
-a single program written to learn Processing.js
+a single webpage written to learn Processing.js
